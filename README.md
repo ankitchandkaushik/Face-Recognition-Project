@@ -11,4 +11,6 @@ Recognise Faces using some classification algorithm - like Logistic, KNN, SVM et
  5. map the predicted id to name of the user 
  6. Display the predictions on the screen - bounding box and name
  
- 
+# Sample
+
+![Screenshot from 2020-07-29 11-56-43](https://user-images.githubusercontent.com/44704033/89071186-d0812800-d393-11ea-9b65-18ec17503f3e.png)
